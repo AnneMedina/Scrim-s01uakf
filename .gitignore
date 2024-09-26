@@ -1,0 +1,11 @@
+#node_modules folder should automatically be ignore
+/node_modules
+
+#please don't commit your vscode settings
+/.vscode
+
+#quiz answers
+quiz
+
+.DS_Store
+
